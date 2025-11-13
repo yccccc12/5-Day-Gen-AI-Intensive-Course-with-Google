@@ -1,4 +1,4 @@
-# 5-Day Gen AI Intensive Course with Google
+# 5-Day AI Agents Intensive Course with Google
 
 Google × Kaggle | 10 - 14 November 2025
 
