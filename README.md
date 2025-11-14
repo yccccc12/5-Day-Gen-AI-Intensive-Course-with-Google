@@ -64,6 +64,14 @@ Today’s whitepaper introduces **Observability** as the foundation for assuring
 ### Day 5: Prototype to Production 
 Go beyond local testing and learn to deploy and scale AI agents for real-world use. This session will cover the best practices for deploying your agents so that others can use them, including how to create a truly multi-agent system with the Agent2Agent (A2A) Protocol.
 
+Today’s whitepaper introduces the operational lifecycle of AI agents, focusing on how to take agents from prototype to production. It highlights key challenges in deployment, scaling, and productionization, with a special emphasis on the Agent2Agent (A2A) Protocol for reliable multi-agent communication.
+In the codelabs, you’ll learn how to build independent, cooperative agents using A2A and how to deploy your locally developed agent as a production-ready, scalable service on Vertex AI Agent Engine.
+
+- [Summary podcast](https://www.youtube.com/watch?v=8Wyt9l7ge-g)
+- Read the ["Prototype to Production" whitepaper](https://www.kaggle.com/whitepaper-prototype-to-production)
+- [Explore](Day-5/day-5a-agent2agent-communication.ipynb) How to use A2A Protocol to have agents intereact with each other
+- [Depoy](Day-5/day-5b-agent-deployment.ipynb) your agent to Agent Engine on Google Cloud
+
 <br>
 
 ## Resources
